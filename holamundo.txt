@@ -1,4 +1,11 @@
+
 Primer linea en master
+
+editando en ramita
 hola
 
+
 hola
+
+nueva funcionalidad:
+ mucho codigo que capas no anda bien.
